@@ -12,6 +12,7 @@ bash git_ignore.sh | cat -e (run on root folder) <br>
 copy a and sw_org.diff <br>
 diff a b > sw.diff <br>
 touch "\~" "a~" "~b" "#c#" "#d" "#e" <br>
+file -m ft_magic test_file <br>
 
 # the commands I used so far
 create a file -> touch <br>
