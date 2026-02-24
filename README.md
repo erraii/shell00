@@ -24,7 +24,7 @@ list all files with entries with long listing format -> ls -la <br>
 ssh-keygen -> generate keygen <br>
 rm 'file' -> remove file <br>
 rm -r 'folder' -> remove folder <br>
-git clone git@vogsphere.42heilbronn.de:vogsphere/intra-uuid-edf1da62-6cea-43c5-b1f8-5b59236df212-7271697-ecakiray sh00 -> clone the remote repo to sh00 folder <br>
+git clone git@vogsphere.42heilbronn.de:vogsphere/intra-uuid-************************-ecakiray sh00 -> clone the remote repo to sh00 folder <br>
 vim -> edit file <br>
 cat -> print file <br>
 git add . -> add all files <br>
