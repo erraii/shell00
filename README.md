@@ -11,4 +11,4 @@ bash git_commit.sh | cat -e <br>
 bash git_ignore.sh | cat -e (run on root folder) <br>
 copy a and sw_org.diff <br>
 diff a b > sw.diff <br>
-touch "~" "a~" "~b" "#c#" "#d" "#e" <br>
+touch "\~" "a~" "~b" "#c#" "#d" "#e" <br>
