@@ -1,5 +1,5 @@
 # shell00
-This is the first C Piscine
+This is the first Shell Exercise
 
 # to be used at the evaluation
 go to home -> evaluation and run in terminal <br>
