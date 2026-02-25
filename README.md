@@ -37,7 +37,7 @@ kinit ecakiray -> init the session <br>
 ln test3 test5 -> hard link <br>
 ln -s test0 test6 -> soft link <br>
 touch -d "2026-06-01 21:46" test1 -> change date of a file <br>
-touch -h -t 202501062220 test6 -> change date of a symbolic link <br>
+touch -h -t 202506012220 test6 -> change date of a symbolic link <br>
 ls -ltp | tr '\n' ', ' -> list files (l is for long format, t is sorting by time, p is adding \ to the end of the file and tr is for translating from one to another <br>
 ls -mtp (is a better option for first one) <br>
 git log -n 5 --format=%H -> display the last 5 git commits and display only the commit hashes <br>
