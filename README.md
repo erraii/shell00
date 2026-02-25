@@ -19,6 +19,7 @@ create a file -> touch <br>
 create a directory -> mkdir <br>
 change time of a file or directory -> touch -t 06012342 testShell00 <br>
 change time of a symbolic link -> touch -d "2026-06-01 22:20" test6 <br>
+change size of a file -> truncate -s 1K filename
 change permmisions -> chmod wrxwrxwrx (777) <br>
 list all files with entries with long listing format -> ls -la <br>
 ssh-keygen -> generate keygen <br>
